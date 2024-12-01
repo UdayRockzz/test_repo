@@ -1,0 +1,49 @@
+[
+   
+    {
+      "title": "Arduino",
+      "imageSrc": "skills/arduino_1.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git_2.png"
+    },
+    {
+      "title": "ROS",
+      "imageSrc": "skills/Ros_logo_svg_2.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker_1.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+      "title": "TensorFlow",
+      "imageSrc": "skills/tensorflow.png"
+    },
+    {
+      "title": "Pytorch",
+      "imageSrc": "skills/pytorch.png"
+    },
+    {
+      "title": "OpenCV",
+      "imageSrc": "skills/opencv.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    }
+]
+
+  

@@ -1,0 +1,3 @@
+AZURE_OPENAI_ENDPOINT= https://portfoliouday.openai.azure.com/
+AZURE_OPENAI_API_KEY= 2cad6308234a481fba0429c34cc29f18
+AZURE_OPENAI_MODEL= PortfolioUday

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Autonomous Navigation of the Pepper Robot",
+    "imageSrc": "projects/pepper_lib2.jpeg",
+    "gifSrc": "projects/pepper_lib2.gif",
+    "description": "This is a project is to navigate inside the known environment and interact with people.",
+    "skills": ["Python", "ROS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/UdayRockzz/Autonomous_Navigation_Pepper_robot"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "gifSrc": "projects/project.gif",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "gifSrc": "projects/project.gif",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
